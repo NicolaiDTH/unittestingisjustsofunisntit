@@ -6,3 +6,5 @@ describe('GAME INSTANCE FUNCTIONS', function () {
 	});
 	it('some other stuff');
 });
+
+    // "test: watch": "mocha --watch ./test ./"
